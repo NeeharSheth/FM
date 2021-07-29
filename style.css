@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right, #feac5e, #c779d0, #4bc0c8); 
+}
+
+.heading{
+margin: 0;
+width: 100%;
+background-color: #70e1f5;
+box-shadow: 5px 5px 18px #ffd194;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+font-family: 'Festive', cursive;
+color: #C490E4;
+font-size: 40px;
+}
+
+.note{
+    color: #CE97B0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 30px;
+}
+
+.money_footer{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    color: white;
+    background: linear-gradient(to right, #f8cdda, #1d2b64);
+    line-height: 2.1;
+    font-size: 32px;
+    font-family: 'Tourney', cursive;
+}
+
+canvas{
+    border: white 2px solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #AA2EE6;
+    margin-top: 30;
+}
+
+.font_change{
+font-size: 22px;
+}
